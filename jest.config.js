@@ -12,5 +12,6 @@ module.exports = {
   moduleFileExtensions: [
     'ts', 'tsx', 'js', 'jsx'
   ],
-  collectCoverage: true
+  collectCoverage: true,
+  testURL: "http://localhost/"
 }
