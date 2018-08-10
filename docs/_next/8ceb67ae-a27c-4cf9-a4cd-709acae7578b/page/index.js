@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/",function(){return{page:webpackJsonp([3],{197:function(e,t,n){e.exports=n(198)},198:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n(5),u=n.n(r);t.default=function(){return u.a.createElement("h1",null,"Testing Next.js App written in TypeScript with Jest")}}},[197]).default}});
